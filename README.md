@@ -213,7 +213,7 @@ Let's add a matrix strategy to the **My Starter Workflow** so we can run our job
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Merge your changes</h2></summary>
 
 _Nicely done! :partying_face:_
@@ -237,7 +237,7 @@ We'll now merge your changes so that your workflow file changes will be part of 
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Trigger your workflow and view the Actions logs</h2></summary>
 
 _You're almost done. Last step! :heart:_
