@@ -52,7 +52,7 @@ Reusable workflows offer a simple and powerful way to avoid copying and pasting 
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Make a workflow reusable</h2></summary>
 
 _Welcome to "Reusable Workflows and Matrix Strategies"! :wave:_
@@ -99,7 +99,7 @@ Let's get started with our first step to see how this would work!
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a job to call the reusable workflow</h2></summary>
 
 _Nice work! :tada: You made a workflow reusable!_
