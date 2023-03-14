@@ -237,7 +237,7 @@ We'll now merge your changes so that your workflow file changes will be part of 
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Trigger your workflow and view the Actions logs</h2></summary>
 
 _You're almost done. Last step! :heart:_
@@ -267,7 +267,7 @@ When you're done reviewing the Actions logs, return here and refresh the page to
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_ 🎉
